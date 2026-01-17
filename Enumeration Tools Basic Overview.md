@@ -8,4 +8,7 @@ example company: **tesla**
 
 ### 2. asnlookup.py tool
 
-- 
+- basic asnlookup via python script:
+```
+python3 asnlookup.py --org hackthissite --apikey 
+```
